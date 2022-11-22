@@ -1,0 +1,168 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: rgba(113, 100, 84, 1);
+}
+.menul li{
+
+	cursor: pointer;
+	font-family: IBM Plex Serif;
+	font-size: 16px;
+	margin: 15px;
+	position: relative;
+	display: inline-block;
+}
+a{	text-shadow: 0px white;
+	cursor: pointer;
+	font-family: IBM Plex Serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover{
+text-shadow: #FFFACD 0 0 3px;
+}
+.menuli{
+padding-left: 40px;
+padding-right: 15px;
+}
+.logo{
+	position: relative;
+	top: 10px;
+ padding-right: 60px;
+}
+.singin{
+padding-left: 80px;
+}
+.txtsign{
+	border: 1px solid white;
+	padding-right: 14px;
+	padding-left: 14px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+}
+.bordertxt{
+	margin-left: 290px;
+}
+.onetxt{  
+	text-decoration: underline;
+  /* Смещаем подчёркивание на 20 пикселей вниз */
+  text-underline-offset: 15px;
+  text-decoration-thickness: 1px;
+	font-weight: lighter;
+	font-size: 32px;
+font-family: IBM Plex Serif;
+	color: #FFFFFF;
+}
+p{ 
+	font-weight: lighter;
+	font-size: 20px;
+font-family: IBM Plex Serif;
+	color: #FFFFFF;	
+}
+.blkimgtxt li{
+	margin-top: 90px;
+		position: relative;
+	display: inline-block;
+	
+}
+.txtonimg{
+
+	margin-left: 70px;
+	margin-right: 150px;
+	bottom: 190px;
+	position: relative;
+    
+}
+.conttxt{
+	position: absolute;
+	top: 28%;
+   left: 14%;
+    
+}
+.imghcake{
+	width: 625px;
+}
+.txtsign1{
+	font-size: 20px;
+	border: 1px solid white;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+}
+.butt{
+	padding-left: 60px;
+	position: absolute;
+	top: 350px;
+}
+.txtcake{
+	text-align: center;
+}
+.cont20{
+	padding-top: 100px;
+}
+.imgcake2{
+	text-align: center;
+	padding-top: 63px;
+}
+.imghcakei{
+	width: 1100px;
+}
+.delcake li{
+	margin-top: 0px;
+		position: relative;
+	display: inline-block;
+	
+}
+.containercond{
+	padding-top: 100px;
+	text-align: center;
+}
+.conttxt1{
+	background-color: rgba(13, 11, 10, 0.09);
+	width: 400px;
+	height: 178px;
+text-align: left;
+padding-left: 90px;
+padding-top: 10px;
+}
+.group6img{
+	
+	width: 1490px;
+}
+footer{ 
+	background: url('img/Group6.png');
+	text-align: center;
+}
+.footmen{ 
+background-color: rgba(13, 11, 10, 0.09);
+width: 100%;
+height: 70%;
+display: inline-flex;
+	justify-content: space-between;
+	text-align: center;
+}
+li{
+	text-decoration: none;
+}
+.cont1{
+font-weight: lighter;
+	font-size: 32px;
+font-family: IBM Plex Serif;
+	color: #FFFFFF;
+}
+.conttxt3{ 
+	padding-left: 80px;
+	padding-right: 100px;
+	text-align: left;
+}
+.footmn1{
+	text-align: center;
+	margin-top: 200px;
+	
+}
+.footmn0{
+
+	padding-left: 10px;
+	text-align: center;
+}
